@@ -15,5 +15,7 @@ class KotlinsDemo2Test {
         var  demo = KotlinsDemo2()
         //demo.demo1()
         demo.checknull()
+      //  demo.parseInt("a")
+        demo.sectionDemo3()
     }
 }
